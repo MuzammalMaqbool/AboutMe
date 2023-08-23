@@ -89,7 +89,7 @@ Diverse skill set, including:
 - National Talent Scholarship
 - Rover Mate Scout
 - Graphic Designing Excellence
-- DSC IUB Recognition
+- GDC IUB Recognition
 
 ## Languages
 
