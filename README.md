@@ -2,7 +2,7 @@
 
 # M. Muzammal - Software Engineer & Creative Enthusiast
 
-![Profile Image](link_to_your_profile_image)
+![Profile Image](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQD8rgTA9NZwVXMy9SJtZ256HHm4U3veUyV8wOqMHTPLw&s)
 
 - Location: Minchinabad, Punjab, Pakistan
 - Email: mzmlcreations@gmail.com
@@ -98,6 +98,4 @@ Fluent in English, Urdu, and Persian
 ## Summary
 
 I'm M. Muhammad Maqool, a software engineer and co-founder of DevHack. With a blend of technical skills and creative talents, I've excelled in roles ranging from Flutter development to photography and graphic design. My experience as a graphic designer at Google DSC has reinforced the value of design in software development. I'm eager to collaborate with innovative minds in the industry. Feel free to connect with me to explore potential collaborations or learn more about my work.
-```
 
-Please replace `link_to_your_profile_image` with the actual URL of your profile image. This GitHub README is designed to showcase your skills, experiences, and achievements in an organized and visually appealing manner. Feel free to adjust the formatting and content to match your preferences.
